@@ -5,7 +5,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3500&pause=1000&color=4ADE80&center=true&vCenter=true&width=950&lines=Welcome+to+My+GitHub;DevOps+Engineer;Cloud+Infrastructure+Engineer;Linux+Administrator;Cybersecurity+Enthusiast;Docker+%7C+Kubernetes+%7C+AWS;Full+Stack+Developer;Always+Learning+Something+New"/>
 
 <p>
-  <a href="https://senthilkumarofficial.github.io">
+  <a href="https://msenthilkumar.netlify.app">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=4ADE80"/>
   </a>
   <a href="https://linkedin.com/in/senthilkumarofficial">
