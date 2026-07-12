@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:111111&height=260&section=header&text=M.%20Senthil%20Kumar&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DevOps%20Engineer%20|%20Cloud%20Engineer%20|%20Full%20Stack%20Developer&descAlignY=58&descAlign=50"/>
+<img width="100%" src="./header-banner.svg" alt="Header Banner" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3500&pause=1000&color=4ADE80&center=true&vCenter=true&width=950&lines=Welcome+to+My+GitHub;DevOps+Engineer;Cloud+Infrastructure+Engineer;Linux+Administrator;Cybersecurity+Enthusiast;Docker+%7C+Kubernetes+%7C+AWS;Full+Stack+Developer;Always+Learning+Something+New"/>
 
